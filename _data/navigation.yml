@@ -18,6 +18,7 @@ header:
 
   - titles:
       en      : &EN       About
+      vi      : &VI         Giới thiệu
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -32,3 +33,18 @@ header:
       ko      : &KO       소개
       ko-KR   : *KO
     url: /about.html
+
+  - titles:
+      en      : &EN       Service
+      vi      : &VI         Dịch vụ
+    url: /service.html
+
+  - titles:
+      en      : &EN       Contact
+      vi      : &VI         Liên hệ
+    url: /contact.html
+
+  - titles:
+      en      : &EN       Donate
+      vi      : &VI         Donate
+    url: /donate.html

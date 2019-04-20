@@ -109,3 +109,23 @@ ko: &KO
 
 ko-KR:
   <<: *KO
+
+vi: &VI
+  SUBSCRIBE               : "Subscribe"
+  READMORE                : "Đọc thêm"
+  SEARCH                  : "Tìm kiếm"
+  CANCEL                  : "Hủy bỏ"
+  VIEWS                   : "Lượt xem"
+  LAST_UPDATED            : "Last updated"
+  PREVIOUS                : "PREVIOUS"
+  NEXT                    : "NEXT"
+  ARTICLE_DATE_FORMAT     : "%d %b, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%d %b"
+  STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Edit on Github"
+  FOLLOW_ME               : "Follow me on [NAME]."
+  FOLLOW_US               : "Follow us on [NAME]."
+  EMAIL_ME                : "Gửi email cho tôi."
+  EMAIL_US                : "Gửi email cho chúng tôi."
+  COPYRIGHT_DATES         : "2019"
