@@ -2,7 +2,8 @@
 title: Phần cứng và Hackintosh
 tags: hackintosh hardware
 author: Nguyen Van Hung
-toc:
+aside:
+  toc: true
 ---
 # Mở đầu
 Bài viết này sẽ giúp bạn trả lời cho một số câu hỏi như sau, các bạn cần có những kiến thức cơ bản về phần cứng máy tính để có thể hiểu bài này:

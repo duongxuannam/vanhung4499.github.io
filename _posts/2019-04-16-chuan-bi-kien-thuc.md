@@ -2,7 +2,8 @@
 title: Chuẩn bị kiến thức cơ bản
 tags: hackintosh base knowledge
 author: Nguyen Van Hung
-toc:
+aside:
+  toc: true
 ---
 Để có thể tự cài đặt hackintosh bạn cần phải có kiến thức cơ bản về máy tính, ít nhất bạn nên biết cài win uefi. Trong blog này mình sẽ chỉ nói về cài hackintosh chuẩn uefi-gpt mà thôi, không support legacy. Bạn nào biết rồi thì có thể bỏ qua đọc bài viết khác.
 
