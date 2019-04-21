@@ -41,4 +41,4 @@ Vì có quá nhiều hãng máy và main nên mình không thể làm cụ thể
 ## Tiến hành cài đặt
 Setup xong bios rồi thì cắm usb vào mà boot cài thôi!
 
-Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.
+__Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.__

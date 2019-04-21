@@ -53,3 +53,5 @@ Hackintosh có thể cài đặt trên phần lớn các PC laptop hiện có tr
 
 # Tổng kết
   Nếu máy của bạn không quá cũ thì gần như chắc chắn máy bạn có thể cài được hackintosh. Đối với PC thì với việc card trâu cày AMD bán xả giá rất rẻ bạn có thể mua một cái về cài rất dễ, cài card on sẽ khó khăn hơn. Đối với laptop thì gần như sẽ không dùng được card rời cần phải disable nó đi, wifi cũng khả năng tạch là rất cao.
+
+__Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.__

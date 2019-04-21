@@ -160,4 +160,4 @@ Intel Framebuffer patching using WhateverGreen](https://www.insanelymac.com/foru
 
   Chân thành cảm ơn đến Rehabman, Corpnewt, Olarila team, Acidanthera team và nhiều người khác đã viết kext, guide và chia sẻ hackintosh.
 
-  Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.
+  __Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.__

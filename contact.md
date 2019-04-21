@@ -12,6 +12,7 @@
 - GitHub: [vanhung4499](https://github.com/vanhung4499)
 - Facebook: [vanhung4499](https://www.facebook.com/vanhung4499)
 - Facebook Page: [Hackintosh AZ](https://www.facebook.com/Hackintosh-AZ-1210860139083557/)
+- Facebook Group: [Hackintosh - The OS X on PC World](https://www.facebook.com/groups/hackintoshPC/)
 - Zalo: 0377930334
 - Địa chỉ: Làng đại học, Đại học quốc gia TPHCM - Thủ Đức
 
