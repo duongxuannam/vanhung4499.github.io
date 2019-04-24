@@ -28,11 +28,14 @@ Có 2 cách format usb bạn thích cách nào thì lam cách đó. Cả 2 cách
   4. Chọn USB của bạn ở cột bên trái rồi chọn erase
   ![show all devices](/assets/images/hackintosh/disk-utility/usb.png)
 
-  5. Sửa các lựa chọn như sau:
-    + Name: install_osx
-    + Format: Mac OS Extended (Journaled)
-    + Scheme: GUID Partition Map
+  5. Sửa các lựa chọn như sau
+
+    - Name: install_osx
+    - Format: Mac OS Extended (Journaled)
+    - Scheme: GUID Partition Map
+
   ![show all devices](/assets/images/hackintosh/disk-utility/erase.png)
+
   6. Chọn __Erase__
 
 ### Dùng Command line
