@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Nguyễn Văn Hùng
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : /assets/images/avatar.png # path or url of avatar image (square)
   bio       : Coding and Hackintosh
   email     : vanhung4499@gmail.com
   facebook  : vanhung4499 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -108,17 +108,16 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: true # false (default), "addtoany", "addthis", "custom"
+  provider: # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
-
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -147,7 +146,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
