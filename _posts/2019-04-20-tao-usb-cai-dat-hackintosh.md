@@ -146,9 +146,9 @@ Có 2 cách format usb bạn thích cách nào thì lam cách đó. Cả 2 cách
     PC có thể dùng được các loại card rời và cả card onboard. Vấn đề là PC không có kho config chuẩn giống rehabman làm cho laptop nên mình đã làm và chỉnh sửa lại cho PC để đảm bảo có thể boot và dùng ổn định. Config do mình làm được tham khảo từ [Olarila](https://olarila.com/forum/), [Hackintosh Vanilla](https://hackintosh.gitbook.io/) và [
 Intel Framebuffer patching using WhateverGreen](https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen/). Config này mình cài dịch vụ kha khá máy đều ổn, có thể nó chưa chuẩn các bạn có thể góp ý qua group facebook hoặc github. Mình sẽ chia ra làm hai loại:
 
-    + PC dùng card rời: sẽ không cần chỉnh sửa config về phần graphic, tất cả sẽ do WhateverGreen lo. Download và lựa chọn config tương ứng ở đây [kirito4499 config dgpu](https://drive.google.com/open?id=1lHRQ8w7u4AAH9j8qejfg8_nZcn5SCmor).
+    + PC dùng card rời: sẽ không cần chỉnh sửa config về phần graphic, tất cả sẽ do WhateverGreen lo. Download và lựa chọn config tương ứng ở đây [kirito4499 config dgpu](https://drive.google.com/file/d/1qf-LRMqjc-GlHpOoHISgehwCoqEJvSID/view?usp=sharing).
 
-    + PC dùng Intel HD Graphics, sẽ khó làm hơn và nên chỉnh sửa phần config để nhận được card onboard. Mình đã chỉnh sửa sẵn bạn tải và lựa chọn ở đây [kirito4499 config igpu](https://drive.google.com/open?id=13UcPnqtJ7OOZjK5gAaFloN2q7Sqjo7uD).
+    + PC dùng Intel HD Graphics, sẽ khó làm hơn và nên chỉnh sửa phần config để nhận được card onboard. Mình đã chỉnh sửa sẵn bạn tải và lựa chọn ở đây [kirito4499 config igpu](https://drive.google.com/file/d/1MoTYVXzAlBykJZrFRiGK7H_L6cInZLfj/view?usp=sharing).
 
     Chọn được file rồi thì bạn copy nó đến /EFI/CLOVER/ và sửa tên thành "config.plist".
 
