@@ -20,7 +20,7 @@ Cài hackintosh đương nhiên là để có thể sử dụng được macOS m
 
 | Ưu điểm | Nhược điểm |
 |---|---|
-| Cùng một cấu hình, hiệu năng thì Hackintosh sẽ rẻ hơn real mac khá nhiều (khoảng một nửa hoặc hơn)| Việc cài đặt sẽ là khá khó khăn hoặc nếu không muốn tự cài bạn sẽ phải bỏ tiền ra cài dịch vụ [Tham khảo giá dịch vụ](/service/) |
+| Cùng một cấu hình, hiệu năng thì Hackintosh sẽ rẻ hơn real mac khá nhiều (khoảng một nửa hoặc hơn)| Việc cài đặt sẽ là khá khó khăn hoặc nếu không muốn tự cài bạn sẽ phải bỏ tiền ra cài dịch vụ [Tham khảo giá dịch vụ](/service) |
 | Đa số cấu hình pc hay laptop đều có thể cài đặt hackintosh ổn phục vụ nhu cầu công việc | Một số phần cứng sẽ không được mac support, bạn sẽ phải mua thêm hoặc thay thế như card wifi, card rời  |
 | Hackintosh (macOS) sử dụng rất mượt mà, ổn định, hiệu năng sẽ hơn windows trong khá nhiều tác vụ và hoàn toàn có thể đồng bộ với hệ sinh thái của Apple | Hackintosh (macOS) sẽ không dành cho việc chơi game mà chỉ dành cho công việc, muốn chơi game bạn cài dual boot hackintosh và windows để chơi |
 

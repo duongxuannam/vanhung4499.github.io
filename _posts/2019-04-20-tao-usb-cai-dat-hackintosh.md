@@ -12,9 +12,9 @@ Bạn sẽ cần macOS để thực hiện tạo usb vanilla hackintosh. Ngoài 
   + [High Sierra 10.13.6](https://itunes.apple.com/ca/app/macos-high-sierra/id1246284741?mt=12)
   + [Mojave mới nhất](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 - Thường thì tải từ App Store rất chậm ở Việt Nam, bạn có thể tham khảo thêm một số nguồn bộ cài bên ngoài nhưng có thể gây lỗi. Mình sẽ đưa ra một nguồn mà mình hay sử dụng và cảm thấy ổn là từ [Olarila](https://olarila.com), tải về giải nén và cho vào thư mục Applications:
-  + [High Sierra 10.13.6](https://drive.google.com/file/d/1h5npjpj630TTZzrRl-g69JlWtLmFxQA8/view)
-  + [Mojave 10.14.3](https://drive.google.com/file/d/1aKOEm3dVFDuqmKZnQbl1Do8i5sK_5UXE/view)
-  + [Mojave 10.14.4](https://drive.google.com/file/d/1eoHuYv9YxSzQEXTF4EDv7aEzt2r38o7K/view)
+  + [High Sierra 10.13.6 17G2208](https://drive.google.com/file/d/1h5npjpj630TTZzrRl-g69JlWtLmFxQA8/view) (Bản này nhận native cpu coffeelake)
+  + [High Sierra 10.13.6 17G65](https://drive.google.com/file/d/1dNDz9sGe1wuvNMKzjklwBUKO1Iq4AI63/view)
+  + [Mojave 10.14.5 18F132](https://drive.google.com/file/d/1HN_4cVHo1Is9JuB2l8pkfiCGjWgtt_vT/view)
 - Trong blog này mình sẽ chỉ hướng dẫn về cài các bản 10.13.6 hoặc 10.14.x thôi do một số kext quan trọng ngưng support các bản cũ hơn. Hãy chắc chắn rằng bạn đã có bộ cài trong thư mục Applications để thực hiện các bước tiếp theo.
 
 ## Format USB
@@ -152,7 +152,7 @@ Intel Framebuffer patching using WhateverGreen](https://www.insanelymac.com/foru
 
     Chọn được file rồi thì bạn copy nó đến /EFI/CLOVER/ và sửa tên thành "config.plist".
 
-    __Lưu ý__: Nếu bạn không boot được với config của mình hãy vào [group facebook] để hỏi, mình sẽ support ở kênh này, các bạn đừng gọi điện hay nhắn tin.
+    __Lưu ý__: Nếu bạn không boot được với config của mình hãy vào [group facebook](https://www.facebook.com/groups/hackintoshPC/) để hỏi, mình sẽ support ở kênh này, các bạn đừng gọi điện hay nhắn tin.
 
 ## Tổng kết
   Trên đây mình đã hướng dẫn các bạn tạo usb hackintosh sạch. Ngoài ra có một số cách tạo usb nhanh hơn không cần macOS mình sẽ viết bài sau. Tiếp theo là setup bios và tiến hành cài đặt.
