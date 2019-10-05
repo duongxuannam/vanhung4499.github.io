@@ -36,8 +36,13 @@ header:
 
   - titles:
       en      : &EN       Service
-      vi      : &VI         Dịch vụ
+      vi      : &VI         Dịch vụ Hackintosh
     url: /service.html
+
+  - titles:
+      en      : &EN       buildpc
+      vi      : &VI         Build PC
+    url: /buildpc.html
 
   - titles:
       en      : &EN       Contact

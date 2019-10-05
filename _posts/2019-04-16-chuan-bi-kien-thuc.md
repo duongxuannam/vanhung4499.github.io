@@ -21,5 +21,6 @@ aside:
   - __config.plist__ là file cấu hình, thiết lập của clover bạn đây sẽ là file cần chỉnh sửa nhiều nhất để có thể boot vào macOS.
   - __DSDT/SSDT__ là các bảng giao thức điều khiển thiết bị, được lưu trong BIOS/UEFI của máy. DSDT, SSDT mô tả các thiết bị có trong máy, và cung cấp các hàm vận hành thiết bị. Các thiết bị, hàm này sẽ được sử dụng bởi driver trong các hệ điều hành như Windows, OS X, Linux để điều khiển thiết bị. Nếu không có các bảng này, hệ điều hành sẽ không thể vận hành được.
   - __Patch DSDT/SSDT__ là chỉnh sửa DSDT/SSDT để Hackintosh có thể nhận diện phần cứng và hoạt động đúng cách. macOS chỉ hỗ trợ các phần cứng do Apple quy định. Các thiết bị, hàm vận hành trong DSDT trên máy Mac được tối ưu hóa cho hệ điều hành, với những quy định chặt chẽ. Trên hệ thống Hackintosh, một số thiết bị như card đồ họa, âm thanh, pin không hoạt động, vì bảng DSDT trên máy không tuân theo chuẩn của macOS.
+  
 
   __Nếu bạn cảm thấy bài viết hay và có ích hãy ủng hộ star github và donate để mình có thêm động lực viết bài.__

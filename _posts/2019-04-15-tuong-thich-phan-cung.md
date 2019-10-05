@@ -44,7 +44,7 @@ Hackintosh có thể cài đặt trên phần lớn các PC laptop hiện có tr
   - Về wifi đã có bài viết rõ ràng của anh [Nguyễn Minh Sơn](https://www.facebook.com/son01490517) ở đây [card wifi hackintosh](https://caidatmacos.com/tu-van-phan-cung/card-wifi-hackintosh/)
   - Xin chú ý nếu dùng usb wifi hay usb bluetooth thì nó sẽ gây ảnh hưởng đến việc sleep máy.
   - Usb wifi sẽ là một giải pháp tạm thời giá rẻ để sử dụng wifi trên hackintosh, bạn chỉ cần check trên trang chủ của mẫu usb wifi đó có driver cho mac hay không.
-  - Một số mẫu usb wifi ổn: TP-Link TL-WN725N, TL-WN823N, Comfast WU810N, Comfast CF-811AC mấy mẫu này khá nhỏ gọn.
+  - Một số mẫu usb wifi ổn: TP-Link TL-WN725N, TP-Link TL-WN823N, Comfast WU810N, Comfast CF-811AC mấy mẫu này khá nhỏ gọn.
 
 ## Ổ cứng
   - Nên cài hackintosh trên ổ SSD để có trải nghiệm tốt nhất. Từ High Siera trở đi SSD NVME sẽ nhận native mà không cần patch gì cả.
