@@ -16,7 +16,7 @@
 + 1 usb 16GB, tốt nhất lấy usb 3.0 cho nhanh
 + File bộ cài, tải về và giải nén ra sẵn (nếu dùng windows, hãy dùng winrar hoặc 7zip để giải nén):
   - [High Sierra 10.13.6 17G66](https://drive.google.com/file/d/1QAprop0CsmKaTLsbxoPOdj4i2AgYlSpE/view?usp=sharing)
-  - [Mojave 10.14.6 18G84](https://drive.google.com/open?id=1j4is1Q46eb0uxVKoMe6hd7k1jYh5DsXZ)
+  - [Mojave 10.14.6 18G84](https://drive.google.com/file/d/1kJTms4LnBkasnENMaZEHk2uwrlBlVEvy/view?usp=sharing)
 + __Kiểm tra MD5 của file để chắc chắn file không có vấn đề gì trong quá trình tải:__
   - MD5 (High Sierra 17G66.raw.bz2) = __8d0badb4286d576d9f362f8b27874428__
   - MD5 (Mojave 18G84.raw.bz2) = __f79ac1236f3742a4e8575137b947838d__
@@ -34,7 +34,7 @@
 
 ### Trên macOS
   - Mở Etcher lên -> chọn file bộ cài (đuôi .raw) -> chọn usb -> Flash!
-  ![Etcher](/assets/images/hackintosh/etcher/etcher.png)
+    ![Etcher](/assets/images/hackintosh/etcher/etcher.png)
 
 ### Trên Windows
   1. Format USB:
