@@ -45,11 +45,16 @@ header:
     url: /buildpc.html
 
   - titles:
+      en      : &EN       Project
+      vi      : &VI         Máy đã cài
+    url: /project.html
+
+  - titles:
       en      : &EN       Contact
       vi      : &VI         Liên hệ
     url: /contact.html
 
-  - titles:
-      en      : &EN       Donate
-      vi      : &VI         Donate
-    url: /donate.html
+  # - titles:
+  #     en      : &EN       Donate
+  #     vi      : &VI         Donate
+  #   url: /donate.html
